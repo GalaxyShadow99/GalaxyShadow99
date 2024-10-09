@@ -2,6 +2,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/featured/featured-powered-by-me.svg)](https://forthebadge.com)
 
 
 👋 Hi, I’m @GalaxyShadow99, a French student currently learning computer sciences.
