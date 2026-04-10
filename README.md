@@ -1,6 +1,6 @@
 # 🚀 Hello, moi c'est Thomas C. | @GalaxyShadow99
 
-Je suis un étudiant en informatique (actuellement en Terminale générale spécialité NSI au Lycée Modeste Leroy ).
+Je suis un étudiant en informatique (actuellement en 1e année d'IUT Informatique parcours développement d'Application, à l'IUT de Caen).
 Passionné par l'écosystème web et logiciel, je développe mes compétences en autodidacte et via mes projets scolaires depuis plus de 3 ans.
 
 ---
