@@ -24,8 +24,8 @@ Passionné par l'écosystème web et logiciel, je développe mes compétences en
 ### 📬 Me contacter
 *  **Email Pro :** [thomas.constantin27@orange.fr](mailto:thomas.constantin27@orange.fr)
 * **Portfolio :** [xune.app](https://xune.app)
-*  **Localisation :** France / Calvados
-*  
+*  **Localisation :** France / Calvados  
+
 ---
 
 ### 🕹️ Hors code
