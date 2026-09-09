@@ -1,6 +1,6 @@
 # Bonjour, moi c'est Thomas C. | @GalaxyShadow99
 
-Je suis un étudiant en informatique (actuellement en 1e année d'IUT Informatique parcours développement d'Application, à l'IUT de Caen).
+Je suis un étudiant en informatique (actuellement en 2e année d'IUT Informatique parcours développement d'Application, à l'IUT de Caen).
 Passionné par l'écosystème web et logiciel, je développe mes compétences en autodidacte et via mes projets scolaires depuis plus de 3 ans.
 
 ---
