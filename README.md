@@ -7,7 +7,7 @@ Passionné par l'écosystème web et logiciel, je développe mes compétences en
 
 ### En bref
 *  **Formation :** Terminale Générale (Spé NSI & Option Euro) et actuellement IUT Informatique de Caen
-*  **En recherche :** Stage ou contrat court dans le développement web ou la programmation.
+*  **En recherche :** Stage de 8 à 10 semaines a partir du 7 Avril, et dors et déjà en recherche d'alternance pour la rentrée universitaire de 2027.
 *  **Distinctions :** DNB Mention Très Bien, participation aux Olympiades et au Trophée NSI.
 
 ---
