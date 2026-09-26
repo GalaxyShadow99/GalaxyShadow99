@@ -7,7 +7,7 @@ Passionné par l'écosystème web et logiciel, je développe mes compétences en
 
 ### En bref
 *  **Formation :** Terminale Générale (Spé NSI & Option Euro) et actuellement IUT Informatique de Caen
-*  **En recherche :** Stage de 8 à 10 semaines a partir du 7 Avril, et dors et déjà en recherche d'alternance pour la rentrée universitaire de 2027.
+*  **En recherche :** Stage de 8 à 10 semaines a partir du 5 Avril, et dors et déjà en recherche d'alternance pour la rentrée universitaire de 2027.
 *  **Distinctions :** DNB Mention Très Bien, participation aux Olympiades et au Trophée NSI.
 
 ---
@@ -22,7 +22,7 @@ Passionné par l'écosystème web et logiciel, je développe mes compétences en
 ---
 
 ### Pour me contacter
-*  **Email Pro :** [thomas.constantin27@orange.fr](mailto:thomas.constantin27@orange.fr)
+*  **Email Pro :** [thomas.constantin27@gmail.com](mailto:thomas.constantin27@gmail.com)
 * **Portfolio :** [xune.app](https://xune.app)
 *  **Localisation :** France / Calvados  
 
