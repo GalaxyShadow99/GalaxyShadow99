@@ -19,16 +19,16 @@ Passionné par l'architecture logicielle, le développement web et l'administrat
 
 ---
 
-### Distinctions & Concours
-* **Top 10 Normandie** au concours national de cybersécurité *« Passe Ton Hack d'Abord »* (Airbus & Commandement de la cyberdéfense).
-* **Participation aux Trophées et Olympiades Nationales de NSI** pour des projets de développement applicatif.
-
----
-
 ### Pour me contacter
 * **Portfolio :** [xune.app](https://xune.app)
 * **Localisation :** Caen / Normandie
 * **GitHub :** [github.com/GalaxyShadow99](https://github.com/GalaxyShadow99)
+
+---
+
+### Distinctions & Concours
+* **Top 10 Normandie** au concours national de cybersécurité *« Passe Ton Hack d'Abord »* (Airbus & Commandement de la cyberdéfense).
+* **Participation aux Trophées et Olympiades Nationales de NSI** pour des projets de développement applicatif.
 
 ---
 
